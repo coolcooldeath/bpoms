@@ -1,0 +1,7 @@
+include ':libcryptowrap'
+include ':app'
+//android.useAndroidX=true
+//android.enableJetifier=true
+
+
+
